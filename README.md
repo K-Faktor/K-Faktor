@@ -1,9 +1,6 @@
 ### Привет - Hi 👋
 
-<a href="https://github.com/K-Faktor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Faktor&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=outrun" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Faktor&langs_count=4&line_height=345&theme=outrun" />
-</a>
+![K-Faktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-faktor&show_icons=true&theme=outrun) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-faktor&layout=compact&theme=outrun)
 
 ##  Соцсети - Social
 
