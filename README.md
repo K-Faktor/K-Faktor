@@ -7,5 +7,5 @@
 
 ##  Соцсети - Social
 
-<a href="http://discord.gg/Kgrzrzw"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg"></a>
+<a href="http://discord.gg/Kgrzrzw"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg"></a>
 <a href="https://t.me/za30cod"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg"></a>
