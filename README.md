@@ -1,8 +1,8 @@
 ### Привет - Hi 👋
 
-<a href="https://github.com/za30cod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=za30cod&show_icons=true&line_height=33&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=za30cod&langs_count=4&line_height=345&theme=radical" />
+<a href="https://github.com/K-Faktor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Faktor&show_icons=true&line_height=33&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Faktor&langs_count=4&line_height=345&theme=radical" />
 </a>
 
 ##  Соцсети - Social
