@@ -12,7 +12,7 @@
 ## 🧑‍💻 Соцсети - Social
 
 [![Discord](https://img.shields.io/badge/Discord-Kgrzrzw-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discord.gg/Kgrzrzw)
-[![Telegram](https://img.shields.io/badge/Telegram-za30cod-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/codmwru)
+[![Telegram](https://img.shields.io/badge/Telegram-codmwru-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/codmwru)
 
 ---
 
