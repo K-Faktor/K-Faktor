@@ -4,8 +4,12 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/K-Faktor?style=for-the-badge&color=gold)](https://github.com/K-Faktor)
 [![GitHub repos](https://img.shields.io/badge/Repositories-10-blue?style=for-the-badge)](https://github.com/K-Faktor?tab=repositories)
 
-[![Top Languages](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)](https://github.com/K-Faktor)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript)](https://github.com/K-Faktor)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-Faktor&show_icons=true&theme=radical&hide_border=true)](https://github.com/K-Faktor)
+
+---
+
+## 📊 Основные языки - Top Languages  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Faktor&layout=compact&theme=radical&hide_border=true)](https://github.com/K-Faktor)
 
 ---
 
@@ -22,9 +26,24 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 📊 Активность GitHub (последние контрибуции):
-<!-- Если хочешь, можно подключить GitHub Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=K-Faktor&theme=radical&hide_border=true)
+### 📈 Активность GitHub (последние контрибуции):
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=K-Faktor&theme=radical&hide_border=true&height=300)
+
+---
+
+### 🏆 GitHub Трофеи - GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=K-Faktor&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15)
+
+---
+
+### 📈 Статистика коммитов - Commit Stats
+![](https://github-readme-stats.vercel.app/api/wakatime?username=K-Faktor&theme=radical&hide_border=true&layout=compact)
+
+---
+
+✨ *Профиль создан с использованием [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)*
