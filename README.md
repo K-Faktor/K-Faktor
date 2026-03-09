@@ -4,12 +4,12 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/K-Faktor?style=for-the-badge&color=gold)](https://github.com/K-Faktor)
 [![GitHub repos](https://img.shields.io/badge/Repositories-10-blue?style=for-the-badge)](https://github.com/K-Faktor?tab=repositories)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-Faktor&show_icons=true&theme=radical&hide_border=true)](https://github.com/K-Faktor)
+[![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=K-Faktor&show_icons=true&theme=radical&hide_border=true)](https://github.com/K-Faktor)
 
 ---
 
 ## 📊 Основные языки - Top Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Faktor&layout=compact&theme=radical&hide_border=true)](https://github.com/K-Faktor)
+[![Top Langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=K-Faktor&layout=compact&theme=radical&hide_border=true)](https://github.com/K-Faktor)
 
 ---
 
@@ -37,12 +37,12 @@
 ---
 
 ### 🏆 GitHub Трофеи - GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=K-Faktor&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=K-Faktor&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15&rank=SECRET,REPO,STAR,COMMIT,FOLLOWER,ISSUE,PR)
 
 ---
 
 ### 📈 Статистика коммитов - Commit Stats
-![](https://github-readme-stats.vercel.app/api/wakatime?username=K-Faktor&theme=radical&hide_border=true&layout=compact)
+![](https://denvercoder1-github-readme-stats.vercel.app/api/wakatime?username=K-Faktor&theme=radical&hide_border=true&layout=compact)
 
 ---
 
