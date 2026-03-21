@@ -37,7 +37,7 @@
 ---
 
 ### 🏆 GitHub Трофеи - GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=K-Faktor&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15&rank=SECRET,REPO,STAR,COMMIT,FOLLOWER,ISSUE,PR)
+![](https://github-profile-trophy.screw-hand.vercel.app/?username=K-Faktor&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15&rank=SECRET,REPO,STAR,COMMIT,FOLLOWER,ISSUE,PR)
 
 ---
 
