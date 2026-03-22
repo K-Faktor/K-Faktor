@@ -5,7 +5,6 @@
 [![GitHub repos](https://img.shields.io/badge/Repositories-10-blue?style=for-the-badge)](https://github.com/K-Faktor?tab=repositories)
 
 [![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=K-Faktor&show_icons=true&theme=radical&hide_border=true)](https://github.com/K-Faktor)
-![](https://github-readme-streak-stats.herokuapp.com/?user=K-Faktor&theme=radical&hide_border=true)
 
 ---
 
