@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=K-Faktor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4D4D&icon_color=FF4D4D" height="170">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=K-Faktor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4D4D&icon_color=FF4D4D" height="170">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Faktor&theme=radical&hide_border=true&background=0D1117&stroke=FF4D4D&ring=FF4D4D&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF4D4D&sideLabels=FF4D4D" height="170">
 
 <br>
