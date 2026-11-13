@@ -9,10 +9,10 @@
 [![Repos](https://img.shields.io/badge/Repositories-10-0D1117?style=flat-square&labelColor=0D1117&color=3B0A1E)](https://github.com/K-Faktor?tab=repositories)
 [![Views](https://komarev.com/ghpvc/?username=K-Faktor&style=flat-square&color=39D353&label=Views)](https://github.com/K-Faktor)
 
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=K-Faktor&locale=ru&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3B0A1E&text_color=C9D1D9&custom_title=Stats" height="150">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Faktor&locale=ru&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=3B0A1E&ring=58A6FF&fire=39D353&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF" height="150">
+<img src="https://github-stats-extended.vercel.app/api?username=K-Faktor&locale=ru&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3B0A1E&text_color=C9D1D9&custom_title=Stats" height="150">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=K-Faktor&locale=ru&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=3B0A1E&ring=58A6FF&fire=39D353&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF" height="150">
 
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=K-Faktor&locale=ru&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="320">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=K-Faktor&locale=ru&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="320">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B0A1E,50:39D353,100:0D1117&height=3&width=100%" width="100%" alt="divider">
 
